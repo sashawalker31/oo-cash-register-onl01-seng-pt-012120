@@ -1,5 +1,9 @@
 class CashRegister
-  attr_accessor 
+  attr_accessor :total 
   
-  def initialize
+  def initialize(total=0)
+    @total = total
+  end 
+  
+  
 end 
