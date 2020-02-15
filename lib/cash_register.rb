@@ -10,6 +10,6 @@ class CashRegister
   end 
   
   def add_item 
-    if total 
   
+  end
 end 
